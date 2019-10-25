@@ -1,0 +1,32 @@
+{
+  "name": "direcciones-colombia",
+  "version": "1.0.0",
+  "description": "Homologa las direcciones normales al estandar de la Dian.",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover -- node_modules/jasmine-node/bin/jasmine-node --junitreport --captureExceptions test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulgomezn/direcciones-colombia.git"
+  },
+  "keywords": [
+    "dian",
+    "direcciones",
+    "homologacion",
+    "colombia"
+  ],
+  "author": "raulgomezn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raulgomezn/direcciones-colombia/issues"
+  },
+  "homepage": "https://github.com/raulgomezn/direcciones-colombia#readme",
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "grunt-jsdoc-to-markdown": "^5.0.0",
+    "istanbul": "^0.4.5",
+    "jasmine-node": "^3.0.0",
+    "load-grunt-tasks": "^5.1.0"
+  }
+}

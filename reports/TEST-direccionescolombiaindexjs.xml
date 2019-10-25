@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="direcciones-colombia/index.js" errors="0" tests="4" failures="0" time="0.01" timestamp="2019-10-25T09:16:34">
+  <testcase classname="direcciones-colombia/index.js" name="index.js: All functions and services exported are defined" time="0.003"></testcase>
+  <testcase classname="direcciones-colombia/index.js" name="index.js: standardizeAddress success" time="0.002"></testcase>
+  <testcase classname="direcciones-colombia/index.js" name="index.js: standardizeAddress success" time="0.001"></testcase>
+  <testcase classname="direcciones-colombia/index.js" name="index.js: standardizeAddress success" time="0.001"></testcase>
+</testsuite>
+</testsuites>
