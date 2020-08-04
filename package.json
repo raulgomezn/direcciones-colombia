@@ -1,6 +1,6 @@
 {
   "name": "direcciones-colombia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Homologa las direcciones normales al estandar de la Dian.",
   "main": "index.js",
   "scripts": {
